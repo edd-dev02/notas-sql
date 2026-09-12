@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e07cbc905dd763b",
+        "id": "32e3ace969b60123",
         "type": "tabs",
         "children": [
           {
-            "id": "63952fbc6415ccb8",
+            "id": "81ace3844d0dfc2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL de cero - Tu guía práctica con PostgreSQL.md",
+                "file": "Content/PDF's/postgres-cheatsheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL de cero - Tu guía práctica con PostgreSQL.md",
+                "file": "Content/PDF's/postgres-cheatsheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL de cero - Tu guía práctica con PostgreSQL.md",
+                "file": "Content/PDF's/postgres-cheatsheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +188,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "63952fbc6415ccb8",
+  "active": "81ace3844d0dfc2b",
   "lastOpenFiles": [
-    "Content/PDF's/postgres-cheatsheet.pdf",
+    "Notes/Sección 3/00 - Sección 3 - Fundamentos de SQL.md",
+    "Notes/Sección 3/06 - Funciones y operadores de texto.md",
+    "Notes/Sección 3/05 - UPDATE y cambios seguros.md",
+    "Notes/Sección 3/04 - LIKE y búsqueda por patrones.md",
+    "Notes/Sección 3/03 - SELECT filtros y paginación.md",
+    "Notes/Sección 3/01 - Crear tablas y restricciones.md",
     "SQL de cero - Tu guía práctica con PostgreSQL.md",
+    "Notes/Sección 3/09 - Práctica y chuleta rápida.md",
+    "Notes/Sección 3/08 - DELETE TRUNCATE y DROP.md",
+    "Notes/Sección 3/07 - Separar nombre y apellido.md",
+    "Notes/Sección 3/02 - INSERT y carga de datos.md",
+    "Sin título.base",
+    "Sin título.md",
+    "Content/PDF's/postgres-cheatsheet.pdf",
+    "Notes/Sección 3",
     "Notes",
     "Content/PDF's",
     "Content/Images",
