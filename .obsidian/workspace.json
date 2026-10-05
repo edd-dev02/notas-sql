@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32e3ace969b60123",
+        "id": "4ad2f5d810d2ca74",
         "type": "tabs",
         "children": [
           {
-            "id": "81ace3844d0dfc2b",
+            "id": "e17c8de03983f46c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL de cero - Tu guía práctica con PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SQL de cero - Tu guía práctica con PostgreSQL"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -188,44 +184,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "81ace3844d0dfc2b",
+  "active": "e17c8de03983f46c",
   "lastOpenFiles": [
+    "SQL de cero - Tu guía práctica con PostgreSQL.md",
+    "Notes/Sección 7/02 - UNION y UNION ALL.md",
+    "Notes/Sección 7/01 - Relaciones muchos a muchos y tablas puente.md",
+    "Notes/Sección 7/16 - Práctica y chuleta rápida.md",
+    "Notes/Sección 7/15 - Retroalimentación del laboratorio.md",
+    "Notes/Sección 7/14 - Errores comunes y correcciones.md",
+    "Notes/Sección 7/13 - Rendimiento de JOINs e índices.md",
+    "Notes/Sección 7/12 - Laboratorio projects_s7.md",
+    "Notes/Sección 7/11 - Laboratorio world e idiomas oficiales.md",
+    "Notes/Sección 7/10 - Rankings SUM MAX y LIMIT.md",
+    "Notes/Sección 7/09 - Construir consultas complejas paso a paso.md",
+    "Notes/Sección 7/08 - COUNT DISTINCT en relaciones.md",
+    "Notes/Sección 7/07 - Granularidad y agregaciones con JOIN.md",
+    "Notes/Sección 7/06 - Anti-joins y registros sin relación.md",
+    "Notes/Sección 7/05 - LEFT RIGHT y FULL OUTER JOIN.md",
+    "Notes/Sección 7/04 - INNER JOIN.md",
+    "Notes/Sección 7/03 - Sintaxis JOIN y condición ON.md",
+    "Notes/Sección 7/00 - Sección 7 - JOIN UNION y consultas multitabla.md",
+    "Notes/Sección 7",
+    "Content/PDF's/postgres-cheatsheet.pdf",
+    "Notes/Sección 3/03 - SELECT filtros y paginación.md",
+    "Notes/Sección 3/00 - Sección 3 - Fundamentos de SQL.md",
+    "Notes/Sección 5/00 - Sección 5 - Relaciones llaves y constraints.md",
     "Notes/Sección 6/16 - Práctica y chuleta rápida.md",
     "Notes/Sección 6/15 - Retroalimentación del laboratorio.md",
     "Notes/Sección 6/14 - Errores comunes y correcciones.md",
     "Notes/Sección 6/13 - Migraciones de gran volumen.md",
     "Notes/Sección 6/12 - Laboratorio employees_s6.md",
-    "Notes/Sección 6/11 - Laboratorio country y language.md",
-    "Notes/Sección 6/10 - Validación y reconciliación.md",
-    "Notes/Sección 6/09 - NOT NULL y constraints durante migraciones.md",
-    "Notes/Sección 6/08 - Secuencias SERIAL e IDENTITY.md",
-    "Notes/Sección 6/07 - ALTER COLUMN TYPE y USING.md",
-    "Notes/Sección 6/06 - Backfill y actualizaciones masivas.md",
-    "Notes/Sección 6/05 - INSERT SELECT y carga de catálogos.md",
-    "Notes/Sección 6/04 - Respaldos y estrategia de recuperación.md",
-    "Notes/Sección 6/03 - Perfilado y limpieza previa.md",
-    "Notes/Sección 6/02 - Ciclo de una migración segura.md",
-    "Notes/Sección 6/01 - Normalización y tablas catálogo.md",
-    "Notes/Sección 6/00 - Sección 6 - Migración y normalización de datos.md",
     "Notes/Sección 6",
-    "SQL de cero - Tu guía práctica con PostgreSQL.md",
-    "Notes/Sección 5/06 - Índices y creación concurrente.md",
-    "Notes/Sección 5/10 - Inspeccionar y modificar constraints.md",
-    "Notes/Sección 5/04 - CHECK y validación de dominio.md",
-    "Notes/Sección 5/07 - FOREIGN KEY e integridad referencial.md",
-    "Notes/Sección 5/15 - Práctica y chuleta rápida.md",
-    "Notes/Sección 5/14 - Errores comunes y correcciones.md",
-    "Notes/Sección 5/13 - Criterios de diseño para Data Engineering.md",
-    "Notes/Sección 5/03 - PRIMARY KEY y claves compuestas.md",
     "Notes/Sección 5",
     "Content/Images/tipos_llaves.png",
     "Notes/Sección 4",
     "Sin título.base",
-    "Content/PDF's/postgres-cheatsheet.pdf",
     "Notes/Sección 3",
     "Notes",
     "Content/PDF's",
-    "Content/Images",
-    "Content"
+    "Content/Images"
   ]
 }

@@ -7,6 +7,7 @@
 - [[Notes/Sección 4/00 - Sección 4 - Agregaciones agrupaciones y reportes|Sección 4 — Funciones agregadas, agrupaciones y ordenamiento]]
 - [[Notes/Sección 5/00 - Sección 5 - Relaciones llaves y constraints|Sección 5 — Relaciones, llaves, constraints e índices]]
 - [[Notes/Sección 6/00 - Sección 6 - Migración y normalización de datos|Sección 6 — Migración, normalización y transformación segura de datos]]
+- [[Notes/Sección 7/00 - Sección 7 - JOIN UNION y consultas multitabla|Sección 7 — JOIN, UNION y consultas multitabla]]
 
 ## Sección 3: fundamentos de SQL
 
@@ -100,3 +101,29 @@ Esta sección estudia cómo transformar tablas existentes hacia un modelo mejor 
 - [[Notes/Sección 6/14 - Errores comunes y correcciones|Errores comunes y correcciones]]
 - [[Notes/Sección 6/15 - Retroalimentación del laboratorio|Retroalimentación del laboratorio]]
 - [[Notes/Sección 6/16 - Práctica y chuleta rápida|Práctica y chuleta rápida]]
+
+## Sección 7: JOIN, UNION y consultas multitabla
+
+Esta sección estudia cómo combinar filas y conjuntos de resultados, recorrer relaciones de varias tablas y construir reportes agregados sin perder de vista la granularidad solicitada.
+
+> [!tip] Idea central
+> Antes de escribir SQL, define qué representa una fila del resultado, qué quieres medir y qué tabla debe conservarse aunque no tenga coincidencias.
+
+### Temas
+
+- [[Notes/Sección 7/01 - Relaciones muchos a muchos y tablas puente|Relaciones muchos a muchos y tablas puente]]
+- [[Notes/Sección 7/02 - UNION y UNION ALL|UNION y UNION ALL]]
+- [[Notes/Sección 7/03 - Sintaxis JOIN y condición ON|Sintaxis JOIN y condición ON]]
+- [[Notes/Sección 7/04 - INNER JOIN|INNER JOIN]]
+- [[Notes/Sección 7/05 - LEFT RIGHT y FULL OUTER JOIN|LEFT, RIGHT y FULL OUTER JOIN]]
+- [[Notes/Sección 7/06 - Anti-joins y registros sin relación|Registros sin relación]]
+- [[Notes/Sección 7/07 - Granularidad y agregaciones con JOIN|Granularidad y agregaciones con JOIN]]
+- [[Notes/Sección 7/08 - COUNT DISTINCT en relaciones|COUNT DISTINCT en relaciones]]
+- [[Notes/Sección 7/09 - Construir consultas complejas paso a paso|Construcción incremental de consultas]]
+- [[Notes/Sección 7/10 - Rankings SUM MAX y LIMIT|Rankings, SUM, MAX y LIMIT]]
+- [[Notes/Sección 7/11 - Laboratorio world e idiomas oficiales|Laboratorio world e idiomas oficiales]]
+- [[Notes/Sección 7/12 - Laboratorio projects_s7|Laboratorio projects_s7]]
+- [[Notes/Sección 7/13 - Rendimiento de JOINs e índices|Rendimiento de JOINs e índices]]
+- [[Notes/Sección 7/14 - Errores comunes y correcciones|Errores comunes y correcciones]]
+- [[Notes/Sección 7/15 - Retroalimentación del laboratorio|Retroalimentación del laboratorio]]
+- [[Notes/Sección 7/16 - Práctica y chuleta rápida|Práctica y chuleta rápida]]
